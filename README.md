@@ -1,4 +1,4 @@
-# PINN_Viscoelatic_Aging
+# PINN_Viscoelastic_Aging
 ## Description
 These files contain codes of the ML viscoelastic model for the prediction of the behavior of various types of aged Polymers in uniaxial tensile tests.
 
